@@ -1,0 +1,5 @@
+- The most common mistake is by configuring firewall, whether it's by using `firewalld`, `ufw`, `iptables`,  and `nftables`. They're not necessary wrong, and they're actually blocking the `ping` request, but because the traffic is still passing through the firewall rule evaluation, it will be slow and result in high CPU usage when flooded with ICMP requests.
+- The best way is to use the `sysctl net.ipv4.icmp_echo_ignore_all` setting. The reason why it's so efficient is because it blocks the request at kernel level. And `sysctl net.ipv6.icmp_echo_ignore_all` too if available.
+-
+- #linux #firewall
+-

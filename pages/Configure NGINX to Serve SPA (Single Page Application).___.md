@@ -1,0 +1,5 @@
+- Nginx is truly one of the best way to serve static files, it utilizes event driven approach using linux's `epoll` feature, which makes it highly performant and able to handle massive amount of concurrent requests.
+- There are quite distinctions between SPA, SSG, and SSR. In contrast both SPA and SSG don't need a server to execute server-side code, instead it only needs the server to give the built files to the user. While SSR needs a server to execute codes in the server and then returns to the user in HTML forrmat. Based on this distinction, we can use Nginx to serve our SPA/SSG application. For SSR, our Nginx is probably not that useful as SSR apps run on its own.
+-
+- #nginx #web #spa
+-

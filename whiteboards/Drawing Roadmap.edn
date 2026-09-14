@@ -1,0 +1,1606 @@
+{:blocks (
+{:block/created-at 1783914070050
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f41f4740-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [369 756]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "f41f4741-7c04-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [75 0]
+:bindingId "f41f4742-7c04-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649614349
+:italic false}}
+:block/updated-at 1783914070050} 
+{:block/created-at 1783914066437
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 4
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [184 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Shading & Value"
+:id "0c57cc70-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [440 536]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649225827
+:italic false}}
+:block/updated-at 1783914066437} 
+{:block/created-at 1783649803953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "582fbbc0-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [961 912]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "582fbbc1-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [75 0]
+:bindingId "582fbbc2-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649782153
+:italic false}}
+:block/updated-at 1783649803953} 
+{:block/created-at 1783650134072
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 37
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "21659730-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [781 1768]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "2165be40-7c06-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "2165be41-7c06-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650119717
+:italic false}}
+:block/updated-at 1783650134072} 
+{:block/created-at 1783649677331
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 13
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [192 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Color Basics"
+:id "138b4110-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [1032 712]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649667059
+:italic false}}
+:block/updated-at 1783649677331} 
+{:block/created-at 1783914095470
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 31
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d7363250-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [836 1445.82]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [123 0]
+:bindingId "d7363251-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [0 12.06]
+:bindingId "d7365960-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649995327
+:italic false}}
+:block/updated-at 1783914095470} 
+{:block/content "Form"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"}
+:block/parent 
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"}
+:block/uuid #uuid "6a505491-ed8b-4d23-ae04-b55b3981dc34"} 
+{:block/created-at 1783649803953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 18
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Hands & Feet"
+:id "4a8be980-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [760 856]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649759328
+:italic false}}
+:block/updated-at 1783649803953} 
+{:block/created-at 1783914085265
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 23
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [280 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Anatomy "
+:id "8ab98210-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [168 1200]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649868286
+:italic false}}
+:block/updated-at 1783914085265} 
+{:block/created-at 1783914063641
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [184 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Observation"
+:id "db041520-7c03-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [448 368]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649143373
+:italic false}}
+:block/updated-at 1783914063641} 
+{:block/created-at 1783650148041
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 40
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 144]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Facial Expression"
+:id "30ef6780-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [1624 1696]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650145801
+:italic false}}
+:block/updated-at 1783650148041} 
+{:block/content "Imagination"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6a505674-6795-4fad-bdd0-82cbf8c0ec4e"}
+:block/parent 
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"}
+:block/uuid #uuid "6a5056cb-c714-4e5b-bd06-faba0c0dc3cb"} 
+{:block/created-at 1783649805399
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "138b4111-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [921 756]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "138b6820-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [107 0]
+:bindingId "138b6821-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649667069
+:italic false}}
+:block/updated-at 1783649805399} 
+{:block/created-at 1783914066438
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0c57f380-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [353 592]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "0c57f381-7c04-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [83 0]
+:bindingId "0c581a90-7c04-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649225693
+:italic false}}
+:block/updated-at 1783914066438} 
+{:block/created-at 1783649803953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4a8c1090-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [669 912]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "4a8c1091-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [87 0]
+:bindingId "4a8c1092-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649759265
+:italic false}}
+:block/updated-at 1783649803953} 
+{:block/created-at 1783650102339
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 35
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "170445c0-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [409 1768]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "170445c1-7c06-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "170445c2-7c06-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650102301
+:italic false}}
+:block/updated-at 1783650102339} 
+{:block/created-at 1783914088205
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b6ff2050-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [449 1209.69]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 28.37]
+:bindingId "ba284cc1-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [91 0]
+:bindingId "b932a221-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649941572
+:italic false}}
+:block/updated-at 1783914088205} 
+{:block/created-at 1783914066438
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "afce6ad0-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [625 592]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "afce6ad1-7c04-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [75 0]
+:bindingId "afce6ad2-7c04-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649499672
+:italic false}}
+:block/updated-at 1783914066438} 
+{:block/created-at 1783914063640
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "db043c30-7c03-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [345 424]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "db046340-7c03-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [99 0]
+:bindingId "db046341-7c03-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649142746
+:italic false}}
+:block/updated-at 1783914063640} 
+{:block/created-at 1783914070050
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [192 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Head"
+:id "e799b640-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [176 712]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649593434
+:italic false}}
+:block/updated-at 1783914070050} 
+{:block/created-at 1783650097854
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 33
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 144]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Advance Anatomy"
+:id "0da744f0-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [136 1696]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650086761
+:italic false}}
+:block/updated-at 1783650097854} 
+{:block/created-at 1783650053175
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [1312 608]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Start Inventing from Imagination"
+:id "70fc0000-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [136 1008]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649824597
+:italic false}}
+:block/updated-at 1783650053175} 
+{:block/created-at 1783914090259
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "bcd4f630-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [825 1139.16]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "bcd4cf20-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [83 1.85]
+:bindingId "bcd4cf21-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649951180
+:italic false}}
+:block/updated-at 1783914090259} 
+{:block/created-at 1783914093592
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 29
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c8aa4a00-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [1066.29 1241]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "c8aa4a01-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [18.89 107]
+:bindingId "c8aa4a02-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649971501
+:italic false}}
+:block/updated-at 1783914093592} 
+{:block/created-at 1783914095470
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 30
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [280 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Storytelling"
+:id "d7360b40-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [552 1392]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649995502
+:italic false}}
+:block/updated-at 1783914095470} 
+{:block/content "Figure Dra"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6a505491-ed8b-4d23-ae04-b55b3981dc34"}
+:block/parent 
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"}
+:block/uuid #uuid "6a5055ce-cb6d-4b4f-a4fa-d70da0126782"} 
+{:block/created-at 1783649708184
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Figure Drawing"
+:id "297f8620-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [168 856]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649703878
+:italic false}}
+:block/updated-at 1783649708184} 
+{:block/created-at 1783650134072
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 36
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 144]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Environment Design"
+:id "21657020-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [880 1696]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650119732
+:italic false}}
+:block/updated-at 1783650134072} 
+{:block/created-at 1783650106520
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 34
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 144]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Composition"
+:id "1703f7a0-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [508 1696]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650102309
+:italic false}}
+:block/updated-at 1783650106520} 
+{:block/content "Imagination"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6a5056cb-c714-4e5b-bd06-faba0c0dc3cb"}
+:block/parent 
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"}
+:block/uuid #uuid "6a5056ea-3709-4e17-af7b-23954cbbeb7d"} 
+{:block/created-at 1783649733671
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3b45d8f0-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [369 912]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "3b45d8f1-7c05-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "3b45d8f2-7c05-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649733633
+:italic false}}
+:block/updated-at 1783649733671} 
+{:block/created-at 1783649681191
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 3
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [184 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Perspective"
+:id "ed5ce3f0-7c03-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [168 536]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649174085
+:italic false}}
+:block/updated-at 1783649681191} 
+{:block/created-at 1783914088205
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 24
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [280 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Character Design"
+:id "9b9797c0-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [544 1056]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649867548
+:italic false}}
+:block/updated-at 1783914088205} 
+{:block/created-at 1783649677331
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 9
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [192 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Body"
+:id "f41f2030-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [448 712]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649614333
+:italic false}}
+:block/updated-at 1783649677331} 
+{:block/created-at 1783650066052
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 32
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "fd9cfa02-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [-32 392]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [8 680]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650059887
+:italic false}}
+:block/updated-at 1783650066052} 
+{:block/created-at 1783649805399
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f650f450-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [641 756]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "f650f451-7c04-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [83 0]
+:bindingId "f650f452-7c04-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649618032
+:italic false}}
+:block/updated-at 1783649805399} 
+{:block/created-at 1783649802309
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 20
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [240 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Advance Perspective"
+:id "582f94b0-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [1040 856]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649782216
+:italic false}}
+:block/updated-at 1783649802309} 
+{:block/created-at 1783649518313
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [184 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Basic Form"
+:id "b5b63780-7c03-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [160 368]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649080602
+:italic false}}
+:block/updated-at 1783649518313} 
+{:block/created-at 1783914008509
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 41
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "30ef6781-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [1525 1768]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "30ef6782-7c06-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "30ef8e90-7c06-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650145786
+:italic false}}
+:block/updated-at 1783914008509} 
+{:block/created-at 1783914090259
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 25
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [280 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Animal"
+:id "acd5f5e0-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [912 1080]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649867840
+:italic false}}
+:block/updated-at 1783914090259} 
+{:block/created-at 1783649736911
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 16
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Advance Color"
+:id "3b458ad0-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [468 856]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649733646
+:italic false}}
+:block/updated-at 1783649736911} 
+{:block/created-at 1783649805399
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 11
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [192 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Fabric & Folds"
+:id "f650cd40-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [728 712]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649618108
+:italic false}}
+:block/updated-at 1783649805399} 
+{:block/created-at 1783914093592
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 28
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [280 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Creature Design"
+:id "c8aa22f0-7c05-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [960 1352]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649972102
+:italic false}}
+:block/updated-at 1783914093592} 
+{:block/created-at 1783914008509
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 39
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "29f3af40-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill true
+:point [1153 1768]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "29f3af41-7c06-11f1-b459-85ebd0d36fec"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "29f3af42-7c06-11f1-b459-85ebd0d36fec"}}
+:decorations 
+{:end "arrow"}
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650134069
+:italic false}}
+:block/updated-at 1783914008509} 
+{:block/content "Anatomy Basics"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6a5055ce-cb6d-4b4f-a4fa-d70da0126782"}
+:block/parent 
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"}
+:block/uuid #uuid "6a505674-6795-4fad-bdd0-82cbf8c0ec4e"} 
+{:block/content "Imagination"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6a5056ea-3709-4e17-af7b-23954cbbeb7d"}
+:block/parent 
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"}
+:block/uuid #uuid "6a505746-9663-477f-8837-e21c2bc2c082"} 
+{:block/created-at 1783650136807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 38
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 144]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Prop Design"
+:id "29f38830-7c06-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [1252 1696]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783650134078
+:italic false}}
+:block/updated-at 1783650136807} 
+{:block/created-at 1783649681192
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 6
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [184 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Gesture"
+:id "afce43c0-7c04-11f1-b459-85ebd0d36fec"
+:fontWeight 400
+:noFill false
+:point [704 536]
+:fontSize 20
+:parentId "6a505307-3b60-47a0-b898-85bdf683ff54"
+:nonce 1783649499825
+:italic false}}
+:block/updated-at 1783649681192})
+:pages (
+{:block/uuid #uuid "6a505307-3b60-47a0-b898-85bdf683ff54"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6a505307-3b60-47a0-b898-85bdf683ff54"
+:name "drawing roadmap"
+:bindings 
+{:f650f452-7c04-11f1-b459-85ebd0d36fec 
+{:id "f650f452-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "f650f450-7c04-11f1-b459-85ebd0d36fec"
+:toId "f650cd40-7c04-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:db046340-7c03-11f1-b459-85ebd0d36fec 
+{:id "db046340-7c03-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "db043c30-7c03-11f1-b459-85ebd0d36fec"
+:toId "b5b63780-7c03-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c8aa4a01-7c05-11f1-b459-85ebd0d36fec 
+{:id "c8aa4a01-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "c8aa4a00-7c05-11f1-b459-85ebd0d36fec"
+:toId "acd5f5e0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:4a8c1091-7c05-11f1-b459-85ebd0d36fec 
+{:id "4a8c1091-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "4a8c1090-7c05-11f1-b459-85ebd0d36fec"
+:toId "3b458ad0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0c581a90-7c04-11f1-b459-85ebd0d36fec 
+{:id "0c581a90-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "0c57f380-7c04-11f1-b459-85ebd0d36fec"
+:toId "0c57cc70-7c04-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:afce6ad2-7c04-11f1-b459-85ebd0d36fec 
+{:id "afce6ad2-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "afce6ad0-7c04-11f1-b459-85ebd0d36fec"
+:toId "afce43c0-7c04-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:c8aa4a02-7c05-11f1-b459-85ebd0d36fec 
+{:id "c8aa4a02-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "c8aa4a00-7c05-11f1-b459-85ebd0d36fec"
+:toId "c8aa22f0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:3b45d8f2-7c05-11f1-b459-85ebd0d36fec 
+{:id "3b45d8f2-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "3b45d8f0-7c05-11f1-b459-85ebd0d36fec"
+:toId "3b458ad0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:b6fef941-7c05-11f1-b459-85ebd0d36fec 
+{:id "b6fef941-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "b6ff2050-7c05-11f1-b459-85ebd0d36fec"
+:toId "9b9797c0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.52 0.55]
+:distance 4}
+:138b6820-7c05-11f1-b459-85ebd0d36fec 
+{:id "138b6820-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "138b4111-7c05-11f1-b459-85ebd0d36fec"
+:toId "f650cd40-7c04-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:3b45d8f1-7c05-11f1-b459-85ebd0d36fec 
+{:id "3b45d8f1-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "3b45d8f0-7c05-11f1-b459-85ebd0d36fec"
+:toId "297f8620-7c05-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f41f4742-7c04-11f1-b459-85ebd0d36fec 
+{:id "f41f4742-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "f41f4740-7c04-11f1-b459-85ebd0d36fec"
+:toId "f41f2030-7c04-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:170445c1-7c06-11f1-b459-85ebd0d36fec 
+{:id "170445c1-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "170445c0-7c06-11f1-b459-85ebd0d36fec"
+:toId "0da744f0-7c06-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:170445c2-7c06-11f1-b459-85ebd0d36fec 
+{:id "170445c2-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "170445c0-7c06-11f1-b459-85ebd0d36fec"
+:toId "1703f7a0-7c06-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:d7363251-7c05-11f1-b459-85ebd0d36fec 
+{:id "d7363251-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "d7363250-7c05-11f1-b459-85ebd0d36fec"
+:toId "c8aa22f0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:30ef8e90-7c06-11f1-b459-85ebd0d36fec 
+{:id "30ef8e90-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "30ef6781-7c06-11f1-b459-85ebd0d36fec"
+:toId "30ef6780-7c06-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:2165be40-7c06-11f1-b459-85ebd0d36fec 
+{:id "2165be40-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "21659730-7c06-11f1-b459-85ebd0d36fec"
+:toId "1703f7a0-7c06-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:30ef6782-7c06-11f1-b459-85ebd0d36fec 
+{:id "30ef6782-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "30ef6781-7c06-11f1-b459-85ebd0d36fec"
+:toId "29f38830-7c06-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:138b6821-7c05-11f1-b459-85ebd0d36fec 
+{:id "138b6821-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "138b4111-7c05-11f1-b459-85ebd0d36fec"
+:toId "138b4110-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:f650f451-7c04-11f1-b459-85ebd0d36fec 
+{:id "f650f451-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "f650f450-7c04-11f1-b459-85ebd0d36fec"
+:toId "f41f2030-7c04-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:bcd4cf20-7c05-11f1-b459-85ebd0d36fec 
+{:id "bcd4cf20-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "bcd4f630-7c05-11f1-b459-85ebd0d36fec"
+:toId "9b9797c0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f41f4741-7c04-11f1-b459-85ebd0d36fec 
+{:id "f41f4741-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "f41f4740-7c04-11f1-b459-85ebd0d36fec"
+:toId "e799b640-7c04-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:bcd4cf21-7c05-11f1-b459-85ebd0d36fec 
+{:id "bcd4cf21-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "bcd4f630-7c05-11f1-b459-85ebd0d36fec"
+:toId "acd5f5e0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.6 0.41]
+:distance 4}
+:2165be41-7c06-11f1-b459-85ebd0d36fec 
+{:id "2165be41-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "21659730-7c06-11f1-b459-85ebd0d36fec"
+:toId "21657020-7c06-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4a8c1092-7c05-11f1-b459-85ebd0d36fec 
+{:id "4a8c1092-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "4a8c1090-7c05-11f1-b459-85ebd0d36fec"
+:toId "4a8be980-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:582fbbc1-7c05-11f1-b459-85ebd0d36fec 
+{:id "582fbbc1-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "582fbbc0-7c05-11f1-b459-85ebd0d36fec"
+:toId "4a8be980-7c05-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d7365960-7c05-11f1-b459-85ebd0d36fec 
+{:id "d7365960-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "d7363250-7c05-11f1-b459-85ebd0d36fec"
+:toId "d7360b40-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:29f3af42-7c06-11f1-b459-85ebd0d36fec 
+{:id "29f3af42-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "29f3af40-7c06-11f1-b459-85ebd0d36fec"
+:toId "29f38830-7c06-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:0c57f381-7c04-11f1-b459-85ebd0d36fec 
+{:id "0c57f381-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "0c57f380-7c04-11f1-b459-85ebd0d36fec"
+:toId "ed5ce3f0-7c03-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ba284cc1-7c05-11f1-b459-85ebd0d36fec 
+{:id "ba284cc1-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "b6ff2050-7c05-11f1-b459-85ebd0d36fec"
+:toId "8ab98210-7c05-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.41 0.56]
+:distance 4}
+:582fbbc2-7c05-11f1-b459-85ebd0d36fec 
+{:id "582fbbc2-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "582fbbc0-7c05-11f1-b459-85ebd0d36fec"
+:toId "582f94b0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:29f3af41-7c06-11f1-b459-85ebd0d36fec 
+{:id "29f3af41-7c06-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "29f3af40-7c06-11f1-b459-85ebd0d36fec"
+:toId "21657020-7c06-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b932a221-7c05-11f1-b459-85ebd0d36fec 
+{:id "b932a221-7c05-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "b6ff2050-7c05-11f1-b459-85ebd0d36fec"
+:toId "9b9797c0-7c05-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.69 0.57]
+:distance 4}
+:afce6ad1-7c04-11f1-b459-85ebd0d36fec 
+{:id "afce6ad1-7c04-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "afce6ad0-7c04-11f1-b459-85ebd0d36fec"
+:toId "0c57cc70-7c04-11f1-b459-85ebd0d36fec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:db046341-7c03-11f1-b459-85ebd0d36fec 
+{:id "db046341-7c03-11f1-b459-85ebd0d36fec"
+:type "line"
+:fromId "db043c30-7c03-11f1-b459-85ebd0d36fec"
+:toId "db041520-7c03-11f1-b459-85ebd0d36fec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("b5b63780-7c03-11f1-b459-85ebd0d36fec" "db041520-7c03-11f1-b459-85ebd0d36fec" "db043c30-7c03-11f1-b459-85ebd0d36fec" "ed5ce3f0-7c03-11f1-b459-85ebd0d36fec" "0c57cc70-7c04-11f1-b459-85ebd0d36fec" "0c57f380-7c04-11f1-b459-85ebd0d36fec" "afce43c0-7c04-11f1-b459-85ebd0d36fec" "afce6ad0-7c04-11f1-b459-85ebd0d36fec" "e799b640-7c04-11f1-b459-85ebd0d36fec" "f41f2030-7c04-11f1-b459-85ebd0d36fec" "f41f4740-7c04-11f1-b459-85ebd0d36fec" "f650cd40-7c04-11f1-b459-85ebd0d36fec" "f650f450-7c04-11f1-b459-85ebd0d36fec" "138b4110-7c05-11f1-b459-85ebd0d36fec" "138b4111-7c05-11f1-b459-85ebd0d36fec" "297f8620-7c05-11f1-b459-85ebd0d36fec" "3b458ad0-7c05-11f1-b459-85ebd0d36fec" "3b45d8f0-7c05-11f1-b459-85ebd0d36fec" "4a8be980-7c05-11f1-b459-85ebd0d36fec" "4a8c1090-7c05-11f1-b459-85ebd0d36fec" "582f94b0-7c05-11f1-b459-85ebd0d36fec" "582fbbc0-7c05-11f1-b459-85ebd0d36fec" "70fc0000-7c05-11f1-b459-85ebd0d36fec" "8ab98210-7c05-11f1-b459-85ebd0d36fec" "9b9797c0-7c05-11f1-b459-85ebd0d36fec" "acd5f5e0-7c05-11f1-b459-85ebd0d36fec" "b6ff2050-7c05-11f1-b459-85ebd0d36fec" "bcd4f630-7c05-11f1-b459-85ebd0d36fec" "c8aa22f0-7c05-11f1-b459-85ebd0d36fec" "c8aa4a00-7c05-11f1-b459-85ebd0d36fec" "d7360b40-7c05-11f1-b459-85ebd0d36fec" "d7363250-7c05-11f1-b459-85ebd0d36fec" "fd9cfa02-7c05-11f1-b459-85ebd0d36fec" "0da744f0-7c06-11f1-b459-85ebd0d36fec" "1703f7a0-7c06-11f1-b459-85ebd0d36fec" "170445c0-7c06-11f1-b459-85ebd0d36fec" "21657020-7c06-11f1-b459-85ebd0d36fec" "21659730-7c06-11f1-b459-85ebd0d36fec" "29f38830-7c06-11f1-b459-85ebd0d36fec" "29f3af40-7c06-11f1-b459-85ebd0d36fec" "30ef6780-7c06-11f1-b459-85ebd0d36fec" "30ef6781-7c06-11f1-b459-85ebd0d36fec")}}
+:block/updated-at 1783914098001
+:block/created-at 1783649031327
+:block/type "whiteboard"
+:block/name "drawing roadmap"
+:block/original-name "drawing roadmap"})}

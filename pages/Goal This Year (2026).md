@@ -1,0 +1,4 @@
+- Buy a new laptop, Asus Vivobook Pro 15 OLED (Rp. 28jt).
+- Get 1000 subscriber on YouTube, or Facebook.
+-
+-

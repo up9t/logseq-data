@@ -1,0 +1,12 @@
+- Press `Alt+N` to open up the normal menu
+- Press `.` (Period) key to open up and change pivot point, useful for scaling
+- Press `` ` ``  (Backtick) to change view
+- Press `Ctrl+B` in edit mode to bevel the edge and `Ctrl+Shift+B` to bevel the vertices
+- In edit mode press `g` twice from the edge/vertex to move along the edge, and while at it press `Alt` to extend it further.
+- Press `/` to enter isolation mode.
+- In edit mode, press `p` to separate mesh to different object.
+- In edit mode, press `m` to merge vertices.
+- In `Geometry node` hold `Shift` and drag `Right click` to the connected line to organize the line. And hold `Ctrl` instead of `Shift` to separate the line.
+-
+- #blender
+-

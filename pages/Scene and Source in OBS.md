@@ -1,0 +1,2 @@
+- Scene is like preset, you can add more preset, and each preset has different composed `Source`.
+- Source is the individual element, for example you can add Front Camera, or Screen Capture, Image, Text, Audio and more and it'll be saved into the selected `Scene`.

@@ -1,0 +1,9 @@
+- In this article, I will be talking about `top` command in linux, and how to navigate it.
+- Top command is a linux command that is used to monitor processes. Every popular linux desktop such as Ubuntu, Linux mint, Fedora has this command out of the box. All you need to do is open up a terminal and type `top` then enter.
+- After you done that, It'll show a bunch of Text and Number, and there is a table on the bottom of your terminal. That is the UI of the top command. Now, how to navigate it.
+- You can press `f` to open a field management menu, after that you'll see a bunch of words, you can move around with `arrow up` and `arrow down`. Now if you press `space`, it'll add a asterisk before that text, that mean if you quit from the field management menu by pressing `q`, you'll see that column has been added to the table. In the field management menu again, if you press `s` you'll sort the table based on that column, even if you don't show that column with in the table menu.
+- That's pretty much all the navigation you need!
+-
+- #linux #fedora
+-
+-
