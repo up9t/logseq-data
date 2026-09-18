@@ -1,0 +1,23 @@
+- Debugging is a process to remove bugs from a program. Simple print to the console to check a value of a variable can also be called debugging because it has the same intention that is to remove a bug from the code.
+- For debugging a more complex program, there is a better way to do it by using a debugger.
+- A debugger is a program that allows you to pause the program, check a variable, dive into a function, resume the execution, etc.
+- Two popular debuggers for C++ are `gdb` and `lldb`.
+- `gdb` is usually installed by default on most linux system including Fedora and Ubuntu. While `lldb` is part of the `llvm` project and isn't installed by default, you have to install it first, either by using package manager or download it somewhere on the internet.
+- You don't need to install `lldb` to debug `clang++` program, `gdb` supports too. That's because compilers (e.g `clang++`/`g++`) produce the same debug symbols that has been standardized by the OS.
+- In this example, I will use `cmake`, `ninja`, `clang`,  and `gdb`. Let's install them.
+-
+- ```bash
+  sudo dnf install -y cmake ninja clang gdb
+  ```
+-
+- After that, you need to know [[How to Setup C++ with VSCode (Linux)]].
+-
+-
+-
+- There are two terms to start a debugger: `launch` and `attach`.
+-
+- #debug #linux #fedora #vscode #cpp #clang #cmake #unfinished
+-
+-
+-
+-
