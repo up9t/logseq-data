@@ -12,12 +12,29 @@
 -
 - After that, you need to know [[How to Setup C++ with VSCode (Linux)]].
 -
+- ## Create a VSCode debug configuration
 -
+- Press `CTRL` + `SHIFT` + `D` to enter the debug menu from the sidebar file explorer. Then click the link to create `launch.json`
+  logseq.order-list-type:: number
+- Click `Add Configuration` button on the bottom right. And choose `gdb launch`. This will automatically create an entry for you in the `launch.json`.
+  logseq.order-list-type:: number
+- Change the `program` path to your binary path. Which under the `build` directory.
+  logseq.order-list-type:: number
+- In your C++ code, add some breakpoints by clicking on the left side of the line code, or by pressing `F9` key on your keyboard.
+  logseq.order-list-type:: number
+- In the sidebar menu again, press the green-outlined play button.
+  logseq.order-list-type:: number
+- Upon running, your program will pause to the first breakpoint, you can inspect the variable or continue to the next breakpoint by clicking the continue button.
+  logseq.order-list-type:: number
+-
+- ## Launch vs Attach
 -
 - There are two terms to start a debugger: `launch` and `attach`.
 -
-- #debug #linux #fedora #vscode #cpp #clang #cmake #unfinished
+- `launch` means the debugger will launch our binary code by itself from start.
+- `attach` means the program is already running, and we just make the debugger to attach to the running program.
 -
 -
+- #debug #linux #fedora #vscode #cpp #clang #cmake
 -
 -

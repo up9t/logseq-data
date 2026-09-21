@@ -4,6 +4,7 @@
 - `ninja` to build the project using the generated build system from `cmake`.
 - `clang` to compile our C++ source code. Actually we use `clang++` because `clang` is for C.
 - `gdb` to debug later.
+- You're also going to need `ld` but that's usually installed by default.
 -
 - Here's how to install them in Fedora.
 -
