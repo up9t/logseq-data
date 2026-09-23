@@ -8,5 +8,5 @@
 - logseq.order-list-type:: number
 - logseq.order-list-type:: number
 -
-- #fedora #godot #c #setup
+- #fedora #godot #csharp #setup
 -
