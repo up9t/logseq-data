@@ -1,3 +1,5 @@
+- After booting the bootable USB, I don't exactly know what to do, I want to keep the `/home` directory, so I think I need to change the partitioning disk to be manual instead of automatic, now what? Searching on Google on my Android Phone, okay so I need to set mountpoints for `/boot`, `/boot/efi`, `/home`, and `/`. And I have to format the `/boot` and the `/`.
+-
 - After doing reinstall, first is I want to install Firefox so that I could troubleshoot problems more easily, but before that I need to make my wifi and mouse working. I use bluetooth to connect my mouse. Wireless connection doesn't available at the moment.
 -
 - ## Fixing the wifi issue
@@ -81,6 +83,13 @@
   sudo dnf install -y dolphin
   ```
 -
+- I also installed these softwares:
+- - Ocular for PDF viewer
+- - Koko for Image viewer
+- - Haruna for Video player
+- - Ptyxis for Terminal emulator
+- - Spectacle for screen capture
 -
 -
-- #linux #fedora #setup
+- #linux #fedora #setup #unfinished
+-

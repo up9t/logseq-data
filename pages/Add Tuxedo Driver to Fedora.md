@@ -18,6 +18,8 @@
   sudo dnf install tuxedo-control-center
   ```
 -
+- > Note it'll install bunch of dependencies because it uses DKMS.
+-
 - ## Sources
 - https://www.linuxtechmore.com/how-to-install-tuxedo-software-on-fedora
 - https://www.tuxedocomputers.com/en/Add-TUXEDO-software-package-sources.tuxedo
