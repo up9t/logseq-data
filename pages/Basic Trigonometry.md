@@ -43,6 +43,16 @@
 - And so on. If you don't remember, just add the power of -1 to the function name, like $$sin^-1$$
 -
 -
+- ## Unit Circle and Polar Coordinate
+-
+- Unit Circle and Polar Coordinate makes trigonometry even easier, you know that:
+- $$x=r\times\cos(\theta)$$ $$y=r\times\sin(\theta)$$
+- If you use unit circle (circle with radius = 1) then:
+- $$(x, y) = (\cos(\theta), \sin(\theta))$$
+-
+- Now, say you have an angle of $$90\degree$$, what's the $$\sin(\theta)?$$ You just need to draw a circle with a radius of 1, then draw a line representing that diameter along the x axis, so it would be (1, 0), now rotate that line $$90\degree$$ counter clockwise, now you'll ended up in (x,y)=(0, 1). Now we know that $$\sin(\theta)=0$$ because $$y=\sin(\theta)$$
+-
+-
 - #math #trigonometry
 -
 -
