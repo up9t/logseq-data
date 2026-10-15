@@ -1,0 +1,11 @@
+- If you use Fedora Linux and Nvidia GPU, there is a chance that your Nvidia GPU isn't even used, or at least isn't using it's maximum potential. That's because in order for your system to communicate property with the hardware, you need a piece of program or software called `driver`. In Fedora, I think it has a very basic Nvidia driver installed called nousea, I mean nouveau. It supports very limited feature from your GPU. If you want to use 100% the capability of your GPU, you need to download the official proprietary Nvidia driver for linux.
+- One important note, if you use a gaming linux like Bazzite, you might not need to install it manually, because they have it installed for you already.
+-
+-
+-
+-
+- #linux #fedora #setup #module #driver #nvidia #gpu #unfinished
+-
+-
+-
+-

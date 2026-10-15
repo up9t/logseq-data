@@ -12,15 +12,55 @@
   sudo dnf config-manager addrepo --from-repofile="https://rpm.tuxedocomputers.com/fedora/tuxedo.repo"
   ```
 -
-- **Install them.**
+- From here you have 2 ways installation:
+- Using DKMS (Official Installation)
+  logseq.order-list-type:: number
+- Using Akmod (Community)
+  logseq.order-list-type:: number
+-
+- More info about DKMS vs Akmod: [[Akmod vs DKMS. Installing Linux Kernel Modules that are out-of-tree.]]
+-
+- ## 1. Official Install (DKMS)
+-
+- Let's use the official installation first by using DKMS. **Just install them normally.**
 -
 - ```bash
-  sudo dnf install tuxedo-control-center
+  sudo dnf install tuxedo-drivers tuxedo-control-center
   ```
 -
 - > Note it'll install bunch of dependencies because it uses DKMS.
 -
+-
+- ## 2. Community Install (Akmod)
+-
+- The reason why I like using Akmod is because it's designed specifically for Fedora and RPM-based distro. And the proprietary Nvidia driver also uses Akmod when you install it [[Add Nvidia Driver in Fedora Linux.]] That way, we're using the existing `akmod` instead of installing `dkms`.
+-
+- First, you need to add this line `excludepkgs=tuxedo-drivers` in the `/etc/yum.repos.d/tuxedo.repo`. This will make `dnf install` to not install the `tuxedo-drivers` through the official repository, instead we're using the community's `tuxedo-drivers`  that uses `akmod`.
+-
+- ```bash
+  [tuxedo]
+  # ...
+  # ... other configs
+  # ...
+  excludepkgs=tuxedo-drivers
+  ```
+-
+- After that, add the Fedora Copr repo. [[Difference between Fedora Copr vs RPM Fusion.]]
+-
+- ```bash
+  # Add copr repository
+  dnf copr enable darrencocco/tuxedo-drivers-kmod
+  
+  # Install
+  dnf install tuxedo-drivers tuxedo-control-center
+  
+  # Reboot after install
+  ```
+-
+-
+-
 - ## Sources
+-
 - https://www.linuxtechmore.com/how-to-install-tuxedo-software-on-fedora
 - https://www.tuxedocomputers.com/en/Add-TUXEDO-software-package-sources.tuxedo
 -
