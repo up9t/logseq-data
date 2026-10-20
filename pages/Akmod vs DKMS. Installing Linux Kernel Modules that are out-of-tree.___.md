@@ -11,8 +11,12 @@
     A[New Kernel Update] --> |DKMS/Akmod| B[Rebuild/Recompile]
   ```
 -
+- Here's an example if you want to install Nvidia Drivers using Akmod (official): [[Add Nvidia Driver in Fedora Linux.]].
+-
+- And here is installing drivers with both example of using DKMS and Akmod: [[Add Tuxedo Driver to Fedora]].
 -
 -
-- #linux #fedora #kernel #module #driver #unfinished
+-
+- #linux #fedora #kernel #module #driver
 -
 -

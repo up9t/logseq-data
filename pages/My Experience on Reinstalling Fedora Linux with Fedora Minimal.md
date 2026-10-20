@@ -1,4 +1,4 @@
-- After booting the bootable USB, I don't exactly know what to do, I want to keep the `/home` directory, so I think I need to change the partitioning disk to be manual instead of automatic, now what? Searching on Google on my Android Phone, okay so I need to set mountpoints for `/boot`, `/boot/efi`, `/home`, and `/`. And I have to format the `/boot` and the `/`.
+- After booting the bootable USB, I don't exactly know what to do, I want to keep the `/home` directory, so I think I need to change the partitioning disk to be manual instead of automatic, now what? Searching on Google on my Android Phone, I need to set mountpoints for `/boot`, `/boot/efi`, `/home`, and `/`. And I have to format the `/boot` and the `/`.
 -
 - After doing reinstall, first is I want to install Firefox so that I could troubleshoot problems more easily, but before that I need to make my wifi and mouse working. I use bluetooth to connect my mouse. Wireless connection doesn't available at the moment.
 -
@@ -47,7 +47,7 @@
 -
 - ## Using nmcli to manage wifi connection.
 -
-- Because I don't have a GUI to manage the wifi connection, I'll have to use what I have which are `NetworkManager` and `nmcli`, `nmcli` itself is the frontend cli that relies on `NetworkManager`.
+- Because I don't have a GUI yet to manage the wifi connection, I'll have to use what I have which are `NetworkManager` and `nmcli`, `nmcli` itself is the frontend cli that relies on `NetworkManager`.
 -
 - ```bash
   # turn on wifi radio signal.
@@ -75,7 +75,7 @@
 -
 - ## Fixing Audio?
 -
-- I want to fix Audio issue by manually installing `pipewire` and `alsa` but it's already there when I installed `plasma-desktop`. So I don't need to fix anything which is not what I want, I'll let it slide because I've been troubleshooting wireless connection quite a while.
+- I want to fix Audio issue by manually installing `pipewire` and maybe `alsa` but it's already there when I installed `plasma-desktop`. So I don't need to fix anything which is not what I want. I'll let it slide because I've been troubleshooting wireless connection quite a while.
 -
 - Next thing is to install File Manager, because I use KDE, `dolphin` is the preferred option.
 -
@@ -83,7 +83,19 @@
   sudo dnf install -y dolphin
   ```
 -
-- I also installed these softwares:
+- And for some settings you need to install another package, for example if you want to change your display settings like framerate through the Plasma Setting, you need to install the `kscreen` package.
+-
+- ```bash
+  sudo dnf install kscreen
+  ```
+-
+- Then finally, installing a browser, I'll use Firefox. The installation is pretty straightforward. You can use flatpak if you want, but I install Firefox directly because Firefox has its own isolation method.
+-
+- ```bash
+  sudo dnf install firefox
+  ```
+-
+- I also installed these softwares through flatpak:
 - - Ocular for PDF viewer
 - - Koko for Image viewer
 - - Haruna for Video player
@@ -91,5 +103,6 @@
 - - Spectacle for screen capture
 -
 -
-- #linux #fedora #setup #unfinished
+- #linux #fedora #setup
+-
 -
